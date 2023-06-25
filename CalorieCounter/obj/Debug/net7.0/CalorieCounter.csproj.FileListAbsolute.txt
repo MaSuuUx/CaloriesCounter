@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\bin\Debug\net7.0\CalorieCounter.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\bin\Debug\net7.0\CalorieCounter.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\bin\Debug\net7.0\CalorieCounter.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\bin\Debug\net7.0\CalorieCounter.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\bin\Debug\net7.0\CalorieCounter.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\refint\CalorieCounter.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\CalorieCounter.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\CalorieCounter\obj\Debug\net7.0\ref\CalorieCounter.dll
